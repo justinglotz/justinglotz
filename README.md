@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Student at Nashville Software School
-# I'm currently learning: ⚛ React
+Student at Nashville Software School \n
+I'm currently learning: ⚛ React
