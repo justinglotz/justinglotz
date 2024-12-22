@@ -1,4 +1,4 @@
-## Hi there 👋
+## Audio Engineer turned Software Engineer 👋
 
 <!--
 **justinglotz/justinglotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
