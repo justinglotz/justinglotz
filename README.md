@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Student at Nashville Software School\
-I'm currently learning: ⚛ React
+I'm currently learning: ⚛ React & 🖊️ Next.js
