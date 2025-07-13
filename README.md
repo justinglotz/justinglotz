@@ -22,6 +22,6 @@ I'm currently learning: 🌴 Django REST Framework & 🐍 Python
 
 <div align="center">
 
-[![Skill Icons](https://skillicons.dev/icons?i=apple,bootstrap,css,django,figma,git,github,html,js,md,materialui,netlify,nextjs,npm,postman,py,react,sqlite,tailwind,ts,vercel,vscode&perline=14)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=apple,bootstrap,css,django,figma,git,github,html,js,md,materialui,netlify,nextjs,npm,postman,py,react,sqlite,tailwind,ts,vercel,vscode&perline=11)](https://skillicons.dev)
 
 </div>
