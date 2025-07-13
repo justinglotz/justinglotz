@@ -19,3 +19,9 @@ I'm a software developer with a passion for building full stack applications, es
 
 Student at Nashville Software School\
 I'm currently learning: 🌴 Django REST Framework & 🐍 Python
+
+<div align="center">
+
+[![Skill Icons](https://skillicons.dev/icons?i=git,html,js,tailwind,go,react,css,ts,sass,astro,vite,figma,github,markdown,pytorch,tensorflow,java,linux,py,nodejs,django,mongodb,windows,cpp,apple,bash,express,mysql&perline=14)](https://skillicons.dev)
+
+</div>
