@@ -18,7 +18,7 @@ I'm a software developer with a passion for building full stack applications, es
 
 
 Student at Nashville Software School\
-I'm currently learning: 🌴 Django REST Framework & 🐍 Python
+I'm currently learning: 🌴 Node.js & Express
 
 # Skills
 <div align="center">
