@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a software developer with a passion for building full stack applications, especially with React, TypeScript, Python, and Django. Before diving into tech, I spent nearly a decade on the road as a touring audio engineer. Working with complex, interdependent systems under pressure taught me how to think critically, solve problems fast, and build things that work reliably in the real world. Now, I’ve translated those skills into software development, applying that same systems-thinking and attention to detail to building scalable, maintainable applications.
 
 
-Student at Nashville Software School\
+Graduated from Nashville Software School\
 I'm currently learning: 🌴 Node.js & Express
 
 # Skills
